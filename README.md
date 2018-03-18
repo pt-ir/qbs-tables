@@ -8,5 +8,5 @@ Computing Symposium*, Parramatta. ACM Press.
 
 You are welcome to use this code in your own work; details are in the
 LICENSE file. This code is copyright (c) 2015 Commonwealth Scientific
-and Industrial Research Organisation (CSIRO).
-
+and Industrial Research Organisation (CSIRO), and incorporates code by
+others and distributed under license as documented inline.
