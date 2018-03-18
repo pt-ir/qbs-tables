@@ -1,3 +1,9 @@
+# Simple geographic lookup tools, to support querying over typed data
+# Paul Thomas, 2015
+
+# Copyright (c) 2015 Commonwealth Scientific and Industrial Research
+# Organisation (CSIRO)
+
 import csv
 
 class GeoNames:

@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+# Simple type inference, to support querying over tables
+# Paul Thomas, 2015
+
+# Copyright (c) 2015 Commonwealth Scientific and Industrial Research
+# Organisation (CSIRO)
+
 import csv
 import datetime
 import itertools
